@@ -2,7 +2,7 @@
 
 ---
 
-## 1. 总体目标 
+## 1. 总体目标
 
 前台为图书馆部分，用户可查阅书籍并发布个人笔记，后台为用户个人中心，基于角色的不同用户的权限不同，管理员可对用户角色进行修改等。
 
@@ -35,5 +35,8 @@
 **数据库：dengdai**
 
 - ✅ MySQL
-
 - ⚪ Redis
+
+## 4. 开发文档
+
+📜 开发文档地址：[http://veal98.gitee.io/project-cswiki](http://veal98.gitee.io/project-cswiki)
